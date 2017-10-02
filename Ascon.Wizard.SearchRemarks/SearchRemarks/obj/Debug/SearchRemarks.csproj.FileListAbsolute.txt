@@ -1,0 +1,14 @@
+C:\Users\Тимур\AppData\Local\ASCON\Pilot-ICE Enterprise\Development\SearchRemarks.ext.dll
+C:\Users\Тимур\AppData\Local\ASCON\Pilot-ICE Enterprise\Development\SearchRemarks.ext.pdb
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\SearchRemarks.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\SearchRemarks.pdb
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Ascon.Pilot.SDK.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Ascon.Pilot.Theme.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Ascon.Pilot.SDK.xml
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\obj\Debug\SearchRemarks.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\obj\Debug\SearchRemarks.pdb
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\obj\Debug\SearchRemarks.csprojResolveAssemblyReference.cache
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Ninject.dll
+C:\Users\Тимур\Source\Repos\searchremarks\Ascon.Wizard.SearchRemarks\SearchRemarks\bin\Debug\Ninject.xml
